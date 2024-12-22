@@ -14,4 +14,4 @@ print("")
 n = int(number)
 
 for i in range(n):
-    print(randomize(4)+"-"+randomize(6)+"-"+randomize(5))
+    print(randomize(4) + "-" + randomize(6) + "-" + randomize(5))
